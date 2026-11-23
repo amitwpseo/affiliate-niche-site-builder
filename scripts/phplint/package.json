@@ -1,0 +1,9 @@
+{
+  "name": "phplint",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PHP syntax check without a PHP runtime. Run: npm install (once), then node lint.js <folder>",
+  "dependencies": {
+    "php-parser": "3.7.0"
+  }
+}
